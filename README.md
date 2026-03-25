@@ -12,3 +12,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriediezc&background=fff0f6&ring=ff8fab&fire=ffb4a2&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875" height="180em"/>
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/output/github-contribution-grid-snake.svg"/>
+</div>
