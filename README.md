@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oiii ! Eu sou a Vitória Gomes
 
-<!--
-**vitoriediezc/vitoriediezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou estudando: Node.js
+- 😄 Pronomes: Ela/Dela
+-<div align="center">
+  <a href="https://beacons.ai/vitoriediezc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriediezc&show_icons=true&include_all_commits=true&count_private=true&bg_color=fff0f6&title_color=ff8fab&text_color=6d6875&icon_color=ffb4a2&border_color=ffc8dd"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriediezc&layout=compact&langs_count=16&bg_color=fff0f6&title_color=ff8fab&text_color=6d6875&icon_color=ffb4a2&border_color=ffc8dd"/>
+  </a>
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriediezc&background=fff0f6&ring=ff8fab&fire=ffb4a2&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875" height="180em"/>
+</div>
