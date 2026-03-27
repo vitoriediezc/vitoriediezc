@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estou estudando: Node.js
 - 😄 Pronomes: Ela/Dela
+
 <div align="center">
   <a href="https://beacons.ai/vitoriediezc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriediezc&show_icons=true&include_all_commits=true&count_private=true&bg_color=fff0f6&title_color=ff8fab&text_color=6d6875&icon_color=ffb4a2&border_color=ffc8dd"/>
@@ -13,11 +14,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriediezc&background=fff0f6&ring=ff8fab&fire=ffb4a2&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875" height="180em"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/output/github-contribution-grid-snake.svg"/>
-</div>
-<h2 align="center">🐍 My Pink Snake</h2>
+<br>
 
-<p align="center">
+<div align="center">
   <img width="600" src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/main/dist/github-contribution-grid-snake.svg"/>
-</p>
+</div>
