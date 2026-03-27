@@ -16,6 +16,6 @@
 
 <br>
 
-<div align="center">
-  <img width="600" src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/main/dist/github-contribution-grid-snake.svg"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/main/dist/github-contribution-grid-snake.svg"/>
+</p>
