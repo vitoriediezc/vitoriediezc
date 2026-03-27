@@ -16,3 +16,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/output/github-contribution-grid-snake.svg"/>
 </div>
+<h2 align="center">🐍 My Pink Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/main/dist/github-contribution-grid-snake.svg"/>
+</p>
