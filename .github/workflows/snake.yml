@@ -18,7 +18,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: vitoriediezc
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=ff8fab&color_dots=#ffc8dd,#ffb4a2,#ff8fab,#fb6f92,#cdb4db
 
       - name: Push snake
         uses: EndBug/add-and-commit@v9
