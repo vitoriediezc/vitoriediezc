@@ -16,8 +16,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/output/github-contribution-grid-snake.svg"/>
 </div>
-## 🐍 Contributions Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vitoriediezc/vitoriediezc/main/dist/github-contribution-grid-snake.svg"/>
-</p>
