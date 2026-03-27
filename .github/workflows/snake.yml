@@ -1,5 +1,1 @@
 
-          add: "dist"
-          message: "update snake"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
