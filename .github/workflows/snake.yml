@@ -16,8 +16,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - uses: actions/upload-pages-artifact@v3
+      - name: Push to output branch
+        uses: EndBug/add-and-commit@v9
         with:
-          path: dist
-
-      - uses: actions/deploy-pages@v4
+          add: "dist"
+          message: "generate snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
